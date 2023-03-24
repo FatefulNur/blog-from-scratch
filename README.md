@@ -3,6 +3,18 @@
 This is a simple beginner blog project with lightweight functionality. The project will be updated overtime.
 
 
+## Table of Contents
+
+- [Getting Started](#getting-started)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Running the tests](#running-the-tests)
+- [Usage](#usage)
+- [Features](#features)
+- [Build with](#build-with)
+- [Versioning](#versioning)
+
+
 ## Getting Started
 
 Hello friends. Welcome to this blog project. This project is all about a template with few features that can be used for your site. Stay tune for all features to meet.
@@ -14,16 +26,6 @@ Before you can start using the project, make sure you have installed:
 
 - Localhost for example [Xampp](https://www.apachefriends.org/)
 - Dependency management [Composer](https://getcomposer.org/)
-
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Limitation](#limitation)
-- [License](#license)
-- [Test](#test)
 
 
 ## Installation
